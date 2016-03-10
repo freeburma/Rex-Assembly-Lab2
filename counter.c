@@ -1,7 +1,7 @@
 
 #include "/home/200/ex2/lib.h"
 
-// Ko Phyo - 1219104  march 26, 2015
+
 
 void counter (int value, int direction)
 {
